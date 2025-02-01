@@ -1,4 +1,4 @@
-# Hi, I'm Ola! 👋🏾 
+# Hi, I'm Ola! 👋🏾 🇳🇬
 
 ## About Me
 🎓 CS & Mathematics @ The University of Texas at Austin  

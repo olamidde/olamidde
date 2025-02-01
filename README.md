@@ -5,13 +5,14 @@
 🌆 Software Engineer based in NYC  
 🤖 Passionate about AI Agents, LLMs & Full Stack Development  
 🎨 Previously @ Figma (Software Engineering Intern)  
-☁️ Previously @ Microsoft (Software Engineering Intern) x3
-🤖 Previously @ Texas Robotics Research
+☁️ Previously @ Microsoft (Software Engineering Intern)
+🤖 Previously @ Texas Robotics (Autonomous Robotics Research)
 
 ## Current Interests
 - 🤖 Building AI Agents & LLM Applications
-- 🛠️ Full Stack Development
+- 🛠️ Developer Tools
 - 🧪 Experimenting with Emerging Tech
+- 💻 HRI Research
 
 ## Tech Stack
 ### Languages

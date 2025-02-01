@@ -50,3 +50,5 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
 ![ROS](https://img.shields.io/badge/ROS-%23232F3E.svg?style=flat)
+
+![nyc](https://github.com/user-attachments/assets/5c1283ef-b6fe-4160-8b9b-51ec088d7c54)
